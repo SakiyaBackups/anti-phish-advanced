@@ -15,7 +15,7 @@ npm i anti-phish-advanced
 
 ```js
 const { Client } = require('discord.js');
-const { Fish } = require('../lib/index'); //fancy imports
+const { Fish } = require('anti-phish-advanced'); //fancy imports
 const client = new Client({ intents: ['GUILD_MESSAGES', 'GUILDS',] }); //create client, requires guild and guild messages to function.
 const fish = new Fish(); //create fish
 
