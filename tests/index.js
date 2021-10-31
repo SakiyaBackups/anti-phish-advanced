@@ -14,4 +14,4 @@ asdf.emit("phishingMessage", async (message, data) => {
     console.log(message, data);
 });
 
-asdf.start('TOKEN')
+asdf.start('NzA5NDM4ODUwMTkxMzI3MzM0.Xrl6ag.KdYsn1tOYbWMXbaLUrpxTrGINdY')
