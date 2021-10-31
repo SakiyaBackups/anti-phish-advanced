@@ -2,7 +2,7 @@
 
 # Anti-Phish Advanced
 
-This is the advanced version of the [Anti-Phishing Implementation](https://github.com/SakiyaDev/anti-phish-implementation) library. Made to cater to the advanced programmar population who might want to handle phishers differently than the implementation library. 
+This is the advanced version of the [Anti-Phishing Implementation](https://github.com/SakiyaDev/anti-phish-implementation) library. Made to cater to the advanced developer population who might want to handle phishers differently than the implementation library. 
 
 
 ## Installation
