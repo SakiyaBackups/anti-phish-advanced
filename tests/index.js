@@ -1,17 +1,11 @@
-const { Client } = require('discord.js'); //import client
-const client = new Client({ intents: ['GUILD_MESSAGES', 'GUILDS',] }); //create client, apparently w/o those intents, it wont work
-const Fish = require('../lib/index'); //import fish
-const asdf = new Fish();
+const { Client } = require('discord.js');
+const { Fish } = require('../lib/index'); //fancy imports
+const client = new Client({ intents: ['GUILD_MESSAGES', 'GUILDS',] }); //create client, requires guild and guild messages to function.
+const fish = new Fish(); //create fish
 
+client.on("phishingMessage", message => {
+    message.channel.send(`Phishing link detected by ${message.author}. Clicking this link may put your account at risk.`)
+})
 
-
-asdf.on('ready', () => {
-    console.log('hi')
-});
-
-
-asdf.emit("phishingMessage", async (message, data) => {
-    console.log(message, data);
-});
-
-asdf.start('NzA5NDM4ODUwMTkxMzI3MzM0.Xrl6ag.KdYsn1tOYbWMXbaLUrpxTrGINdY')
+fish.init(client); //initialize fishing client, DO THIS BEFORE YOU LOGIN.
+client.login('TOKEN'); //login to discord.
