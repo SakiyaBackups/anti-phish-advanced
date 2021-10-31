@@ -1,0 +1,41 @@
+{
+  "name": "anti-phish-advanced",
+  "version": "1.0.0",
+  "description": "An advanced version of the Anti-Phishing library by SakiyaDev.",
+  "main": "lib/index.js",
+  "typings": "./typings/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SakiyaDev/anti-phish-advanced.git"
+  },
+  "keywords": [
+    "Anti-Phish",
+    "Antiphising",
+    "Discord",
+    "SakiyaDevAntiPhising",
+    "SakiyaDev",
+    "Fish"
+  ],
+  "author": {
+    "name": "SakiyaDev",
+    "email": "sakiyadev@protonmail.com",
+    "url": "https://discord.gg/sakiya"
+  },
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SakiyaDev/anti-phish-advanced/issues"
+  },
+  "homepage": "https://github.com/SakiyaDev/anti-phish-advanced#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
