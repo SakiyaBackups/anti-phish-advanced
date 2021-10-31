@@ -1,7 +1,7 @@
 {
-  "name": "anti-phish-implementation",
+  "name": "anti-phish-advanced",
   "version": "1.0.0",
-  "description": "An implementation that you can add to your discord bot to increase the reach of anti-phising tools on discord!",
+  "description": "The advanced version of the Anti-Phishing Implementation!",
   "main": "lib/index.js",
   "typings": "./typings/index.d.ts",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SakiyaDev/anti-phish-implementation.git"
+    "url": "git+https://github.com/SakiyaDev/anti-phish-advanced.git"
   },
   "keywords": [
     "Anti-Phish",
@@ -30,9 +30,9 @@
   },
   "license": "AGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/SakiyaDev/anti-phish-implementation/issues"
+    "url": "https://github.com/SakiyaDev/anti-phish-advanced/issues"
   },
-  "homepage": "https://github.com/SakiyaDev/anti-phish-implementation#readme",
+  "homepage": "https://github.com/SakiyaDev/anti-phish-advanced#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "discord.js": "^13.2.0"
