@@ -1,7 +1,7 @@
 import { Client } from "discord.js";
 
 declare module "anti-phish-advanced" {
-    export interface Fish {
+    export class Fish {
         init(client: Client): VoidFunction;
     }
 }
