@@ -50,6 +50,7 @@ Make sure to go check out the anti phishing database [here.](https://github.com/
 ## Credits
 
 API: https://bitflow.dev/anti-fish, created by [ByteAlex](https://github.com/ByteAlex)
+
 Phishing Database: [Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)
 
 ## License
