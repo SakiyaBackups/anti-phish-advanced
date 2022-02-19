@@ -43,6 +43,14 @@ Contributes are welcomed, please create a pull request to make any changes. But 
 
 Please report any bugs in [issues](https://github.com/SakiyaDev/anti-phish-advanced/issues) with the bug tag! Thank you!
 
+## Adding to / reporting false positives
+
+Make sure to go check out the anti phishing database [here.](https://github.com/mitchellkrogza/Phishing.Database/issues) for reporting new urls or false positives
+
+## Credits
+
+API: https://bitflow.dev/anti-fish, created by [ByteAlex](https://github.com/ByteAlex)
+
 ## License
 
 [APGL-3.0](https://choosealicense.com/licenses/agpl-3.0/)
