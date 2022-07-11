@@ -26,8 +26,15 @@
   "author": {
     "name": "SakiyaDev",
     "email": "sakiyadev@protonmail.com",
-    "url": "https://discord.gg/sakiya"
+    "url": "https://akaribot.net"
   },
+  "contributors": [
+    {
+      "name": "IThundxr",
+      "email": "me@ithundxr.dev",
+      "url": "https://ithundxr.dev/"
+    }
+  ],
   "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/SakiyaDev/anti-phish-advanced/issues"
