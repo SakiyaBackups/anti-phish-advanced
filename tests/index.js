@@ -9,5 +9,9 @@ client.on("phishingMessage", (message, data) => {
     message.channel.send(`Phishing link detected by ${message.author}. Clicking this link may put your account at risk.`);
 });
 
+process.on("unhandledRejection", (err) => {
+    console.error("Unhandled Rejection: " + err);
+})
+
 fish.init(client, version); //initialize fishing client, DO THIS BEFORE YOU LOGIN.
 client.login('TOKEN'); //login to discord.
