@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/SakiyaDev/anti-phish-advanced#readme",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.6.2",
     "discord.js": "^13.6.0"
   }
 }
