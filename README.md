@@ -1,6 +1,6 @@
 # WARNING: LIBRARY CURRENTLY UNMAINTAINED
 
-If you want to maintaine this library, Please contact me on Discord: emiliashiori
+If you want to maintain this library, Please contact me on Discord: emiliashiori
 
 <p align="center"><img src="https://i.imgur.com/psCk5zC.png"></p>
 
