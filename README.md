@@ -2,7 +2,7 @@
 
 # Anti-Phish Advanced
 
-This is the advanced version of the [Anti-Phishing Implementation](https://github.com/MoneyDropLobby/anti-phish-advanced) library. Made to cater to the advanced developer population who might want to handle phishers differently than the implementation library. 
+This is the updated advanced version of the [Anti-Phishing Implementation](https://github.com/MoneyDropLobby/anti-phish-advanced) library. Made to cater to the advanced developer population who might want to handle phishers differently than the implementation library. 
 
 
 ## Installation
