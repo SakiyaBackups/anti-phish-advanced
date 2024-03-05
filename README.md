@@ -2,13 +2,13 @@
 
 # Anti-Phish Advanced
 
-This is the advanced version of the [Anti-Phishing Implementation](https://github.com/SakiyaDev/anti-phish-implementation) library. Made to cater to the advanced developer population who might want to handle phishers differently than the implementation library. 
+This is the advanced version of the [Anti-Phishing Implementation](https://github.com/MoneyDropLobby/anti-phish-advanced) library. Made to cater to the advanced developer population who might want to handle phishers differently than the implementation library. 
 
 
 ## Installation
 
 ```
-npm i anti-phish-advanced
+npm i anti-phish-advanced-updated
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ client.login('TOKEN'); //login to discord.
 
 ## Extra
 
-This library was made to cater to more of the advanced developers. Keeping that in mind, there is a simpler version of this project, which can be found at [SakiyaDev/anti-phish-implementation](https://github.com/SakiyaDev/anti-phish-implementation) on Github, and [anti-phish-implementation](https://www.npmjs.com/package/anti-phish-implementation) on NPM.
+This library was made to cater to more of the advanced developers. Keeping that in mind, there is a simpler version of this project, which can be found at [SakiyaDev/anti-phish-implementation](https://github.com/MoneyDropLobby/anti-phish-advanced) on Github, and [anti-phish-implementation](https://www.npmjs.com/package/anti-phish-implementation) on NPM.
 
 ## Contributing
 
@@ -41,7 +41,7 @@ Contributes are welcomed, please create a pull request to make any changes. But 
 
 ## Bugs
 
-Please report any bugs in [issues](https://github.com/SakiyaDev/anti-phish-advanced/issues) with the bug tag! Thank you!
+Please report any bugs in [issues](https://github.com/MoneyDropLobby/anti-phish-advanced/issues) with the bug tag! Thank you!
 
 ## Adding to / reporting false positives
 

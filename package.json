@@ -1,7 +1,7 @@
 {
   "name": "anti-phish-advanced-updated",
-  "version": "2.0.0",
-  "description": "The advanced version of the Anti-Phishing Implementation!",
+  "version": "2.0.2",
+  "description": "The updated advanced version of the Anti-Phishing Implementation!",
   "main": "lib/index.js",
   "typings": "./typings/index.d.ts",
   "directories": {
@@ -28,18 +28,10 @@
     "email": "moneydroplobbyofficially@gmail.com",
     "url": "https://moneydroplobby.net"
   },
-  "contributors": [
-    {
-      "name": "IThundxr",
-      "email": "me@ithundxr.dev",
-      "url": "https://ithundxr.dev/"
-    }
-  ],
   "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/SakiyaDev/anti-phish-advanced/issues"
   },
-  "homepage": "https://github.com/SakiyaDev/anti-phish-advanced#readme",
   "dependencies": {
     "axios": "^1.6.2",
     "discord.js": "^13.6.0"
