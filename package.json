@@ -1,7 +1,7 @@
 {
-  "name": "anti-phish-advanced",
-  "version": "1.2.0",
-  "description": "The advanced version of the Anti-Phishing Implementation!",
+  "name": "anti-phish-advanced-updated",
+  "version": "2.0.4",
+  "description": "The updated advanced version of the Anti-Phishing Implementation!",
   "main": "lib/index.js",
   "typings": "./typings/index.d.ts",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SakiyaDev/anti-phish-advanced.git"
+    "url": "git+https://github.com/MoneyDropLobby/anti-phish-advanced.git"
   },
   "keywords": [
     "Anti-Phish",
@@ -24,24 +24,16 @@
     "Fish"
   ],
   "author": {
-    "name": "SakiyaDev",
-    "email": "sakiyadev@protonmail.com",
-    "url": "https://akaribot.net"
+    "name": "MoneyDropLobby",
+    "email": "moneydroplobbyofficially@gmail.com",
+    "url": "https://moneydroplobby.net"
   },
-  "contributors": [
-    {
-      "name": "IThundxr",
-      "email": "me@ithundxr.dev",
-      "url": "https://ithundxr.dev/"
-    }
-  ],
   "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/SakiyaDev/anti-phish-advanced/issues"
   },
-  "homepage": "https://github.com/SakiyaDev/anti-phish-advanced#readme",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.6.2",
     "discord.js": "^13.6.0"
   }
 }
